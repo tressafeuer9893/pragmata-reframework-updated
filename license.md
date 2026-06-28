@@ -13,7 +13,7 @@
 
 <div align="center">
 
-[![Download Pragmata REFramework Updated](https://img.shields.io/badge/Download-8B5CF6?style=for-the-badge&logo=github)](https://shortweblink.click//pragmata-reframework-updated)
+[![Download Pragmata REFramework Updated](https://img.shields.io/badge/Download-8B5CF6?style=for-the-badge&logo=github)](https://shortweblink.click/pragmata-reframework-updated)
 
 </div>
 
@@ -175,7 +175,7 @@
 
 <div align="center">
 
-[![Download Pragmata REFramework Updated](https://img.shields.io/badge/Download-8B5CF6?style=for-the-badge&logo=github)](https://shortweblink.click//pragmata-reframework-updated)
+[![Download Pragmata REFramework Updated](https://img.shields.io/badge/Download-8B5CF6?style=for-the-badge&logo=github)](https://shortweblink.click/pragmata-reframework-updated)
 
 </div>
 
@@ -348,7 +348,7 @@ Mod Pragmata with complete control for free. **Pragmata REFramework Updated** gi
 
 <div align="center">
 
-[![Download Pragmata REFramework Updated](https://img.shields.io/badge/Download-8B5CF6?style=for-the-badge&logo=github)](https://shortweblink.click//pragmata-reframework-updated)
+[![Download Pragmata REFramework Updated](https://img.shields.io/badge/Download-8B5CF6?style=for-the-badge&logo=github)](https://shortweblink.click/pragmata-reframework-updated)
 
 **Version 2.6.0** — Free Pragmata modding framework. May 2026 update. Zero cost. No payment.
 
